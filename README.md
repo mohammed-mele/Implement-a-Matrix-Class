@@ -1,2 +1,2 @@
 # m-mele
-Implement a Matrix Class project for Udacity course intro to slef driving cars
+Implement a Matrix Class project for Udacity course intro to self driving cars
